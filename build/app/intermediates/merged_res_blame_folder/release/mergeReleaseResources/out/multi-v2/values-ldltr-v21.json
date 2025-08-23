@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fayez.mobile.app-mergeReleaseResources-51:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TaqieAllah\\.gradle\\caches\\8.9\\transforms\\52f48e58a657089af207b56dfde604fe\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

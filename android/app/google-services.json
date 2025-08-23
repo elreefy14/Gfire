@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "137631728037",
+    "firebase_url": "https://gi-fire-default-rtdb.firebaseio.com",
+    "project_id": "gi-fire",
+    "storage_bucket": "gi-fire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137631728037:android:6f0c29137ba867e4bea84c",
+        "android_client_info": {
+          "package_name": "com.fayez.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjoW5U6NpSXO7tZWe3WZ-pe2Omctuduk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

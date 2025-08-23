@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://gi-fire-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">137631728037</string>
+    <string name="google_api_key" translatable="false">AIzaSyCdjoW5U6NpSXO7tZWe3WZ-pe2Omctuduk</string>
+    <string name="google_app_id" translatable="false">1:137631728037:android:6f0c29137ba867e4bea84c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCdjoW5U6NpSXO7tZWe3WZ-pe2Omctuduk</string>
+    <string name="google_storage_bucket" translatable="false">gi-fire.firebasestorage.app</string>
+    <string name="project_id" translatable="false">gi-fire</string>
+</resources>

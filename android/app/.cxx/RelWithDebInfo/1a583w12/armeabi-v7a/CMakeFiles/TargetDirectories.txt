@@ -1,0 +1,2 @@
+D:/gifire-main/android/app/.cxx/RelWithDebInfo/1a583w12/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/gifire-main/android/app/.cxx/RelWithDebInfo/1a583w12/armeabi-v7a/CMakeFiles/rebuild_cache.dir
