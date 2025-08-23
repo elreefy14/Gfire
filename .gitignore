@@ -89,10 +89,10 @@ firebase_app_id_file.json
 google-services.json
 GoogleService-Info.plist
 
-# Keystore files - NEVER commit these!
-*.jks
-*.keystore
-key.properties
+# Keystore files - REMOVED RESTRICTIONS (USER REQUESTED)
+# *.jks
+# *.keystore
+# key.properties
 
 # Gradle files
 .gradle/
